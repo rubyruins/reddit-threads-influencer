@@ -58,7 +58,7 @@ To deactivate the environment just type:
 
 `deactivate`
 
-### Adding the virtual environment to JuPyter notebook
+### Adding the virtual environment to Jupyter notebook
 `
 Run the following when the environment is activated:
 
@@ -66,7 +66,7 @@ Run the following when the environment is activated:
 
 where <name> is the name of the environment.
 
-When you open the Jupyter notebook, you should be able to select the environment.
+When you open the Jupyter notebook, you should be able to select the environment for that notebook. After that, simply run all cells to execute the code.
 
 ### Removing the environment
 
